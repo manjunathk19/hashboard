@@ -1,3 +1,0 @@
-# hashboard
-read
-qwd
